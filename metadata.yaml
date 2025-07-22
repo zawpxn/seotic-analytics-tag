@@ -1,0 +1,9 @@
+name: Seotic Analytics Tag
+description: Easy to add Seotic Analytics pixel tracking via GTM
+version: "1.0.0"
+author:
+  name: Seotic
+  url: https://www.seotic.co
+homepage: https://www.seotic.co
+documentation: https://www.seotic.co/docs/tag
+icon: icon.png
